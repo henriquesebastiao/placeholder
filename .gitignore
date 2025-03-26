@@ -78,3 +78,4 @@ vendor/
 
 # Generated using ignr.py - github.com/Antrikshy/ignr.py
 
+.wrangler/
