@@ -1,0 +1,42 @@
+title: Henrique Sebastião
+
+tagline: Desenvolvedor back-end
+
+description: >-
+  Desenvolvedor de software, técnico de redes, músico, entusiasta em hardware, radioamadorismo e segurança.
+
+url: "https://henriquesebastiao.com.br"
+
+author: henriquesebastiao
+
+github:
+  username: henriquesebastiao
+
+social:
+  name: Henrique Sebastião
+  email: contato@henriquesebastiao.com
+  links:
+    - https://henriquesebastiao.com
+    - https://github.com/henriquesebastiao
+    - https://www.linkedin.com/in/henriquesebastiao
+    - https://bolha.us/@henriquesebastiao
+
+social_preview_image: https://imagedelivery.net/UnzHYuseZjpgJ5VEgCbryw/e68eb84b-89e4-4c9c-d805-d71b3ef4dc00/public
+
+locale: pt_BR
+
+webmaster_verifications:
+  google: # B2F5DBVpmj2QL-_8mF2X7e_Bxi_KuMdBeZ1zaKrq9BY
+  bing: # fill in your Bing verification code (Not necessary as I already imported from Google Search Console)
+  alexa: # fill in your Alexa verification code
+  yandex: # 2dae2cb40923573a
+  baidu: # fill in your Baidu verification code
+  facebook: # fill in your Facebook verification code
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+exclude:
+  - justfile
